@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+transformers>=4.37.0
+datasets
+aiohttp
+streamlit
+numpy
+Pillow
+tqdm
+accelerate
+sentencepiece
+pycocoevalcap
