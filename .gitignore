@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env/
+.venv/
+
+# Saved checkpints and generated output
+outputs/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# PyTorch
+*.pth
+
+# NOTE: Do NOT ignore shakespeare_transformer.pt, it is required for the Custom VLM
