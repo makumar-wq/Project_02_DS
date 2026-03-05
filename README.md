@@ -1,19 +1,12 @@
----
-title: VLM Caption Lab
-emoji: 🖼️
-colorFrom: blue
-colorTo: indigo
-sdk: streamlit
-sdk_version: 1.40.0
-app_file: app.py
-pinned: false
----
-
 # 🔬 VLM Caption Lab
 
 **Compare how different Vision-Language Models look at images while writing captions — four architectures, one dataset, one evaluation metric.**
 
 VLM Caption Lab is a complete Python toolkit for training, evaluating, and interactively comparing four fundamentally different approaches to **image captioning** (the task of generating a text description of a photograph). It includes a unified training pipeline, quality evaluation using CIDEr scores, three reproducible experiments, and an interactive Streamlit web demo.
+
+### 📚 Key Documentation
+- **[simplified_overview_vlm_image_captioning_project.md](./simplified_overview_vlm_image_captioning_project.md)**: A non-technical overview explaining the four models, experiments, and learnings from the project.
+- **[detailed_technical_report_cross_attention_vlm_image_captioning.md](./detailed_technical_report_cross_attention_vlm_image_captioning.md)**: An in-depth technical report covering the architectures, training methodology, and evaluation metrics used in this project.
 
 ---
 
@@ -33,7 +26,7 @@ VLM Caption Lab is a complete Python toolkit for training, evaluating, and inter
 ## 🌐 Live Demo & Deployment
 
 **The easiest way to test this project is via the live web demo.**
-> 👉 **[Insert Your Live Hosted Link Here]**
+> 👉 **[Live Web Demo](https://huggingface.co/spaces/griddev/project_02_DS)**
 
 *(If deploying yourself, see the `DEPLOYMENT_GUIDE.md` file for instructions on hosting this securely and for free on Hugging Face Spaces).*
 
