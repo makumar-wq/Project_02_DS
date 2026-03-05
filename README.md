@@ -1,3 +1,14 @@
+---
+title: VLM Caption Lab
+emoji: 🖼️
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.40.0
+app_file: app.py
+pinned: false
+---
+
 # 🔬 VLM Caption Lab
 
 **Compare how different Vision-Language Models look at images while writing captions — four architectures, one dataset, one evaluation metric.**
