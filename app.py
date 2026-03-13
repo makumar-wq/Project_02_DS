@@ -436,12 +436,9 @@ def generate_caption(model_name, gen_mode, image_pil,
             caption = processor.batch_decode(out, skip_special_tokens=True)[0]
 
         elif model_name == "Custom VLM (Shakespeare Prefix)":
-            vlm, char_to_idx, idx_to_char, vocab_size, device = load_custom_vlm(weight_source)
+            vlm, char_to_idx, idx_to_char, vocab_size, image_processor, device = load_custom_vlm(weight_source)
             if vlm is None:
                 return "[Custom VLM not available — train first with: python train.py --model custom]"
-            from transformers import ViTImageProcessor
-            image_processor = ViTImageProcessor.from_pretrained(
-                "google/vit-base-patch16-224-in21k", use_fast=True)
             pv = image_processor(images=image_pil, return_tensors="pt")["pixel_values"].to(device)
             if num_beams > 1:
                 caption = vlm.generate_beam(pv, char_to_idx, idx_to_char,
