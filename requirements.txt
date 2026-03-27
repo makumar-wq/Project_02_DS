@@ -11,3 +11,4 @@ tqdm
 accelerate
 sentencepiece
 pycocoevalcap
+gradio>=3.50

@@ -1,0 +1,46 @@
+{
+  "pytorch_fp32": {
+    "backend": "PyTorch fp32",
+    "latency_per_100": 28.4,
+    "bleu4": 0.2891,
+    "model_size_mb": 945,
+    "peak_memory_mb": 1820,
+    "compression_ratio": 1.0,
+    "bleu4_vs_pytorch": 0.0
+  },
+  "pytorch_fp16_amp": {
+    "backend": "PyTorch AMP fp16",
+    "latency_per_100": 17.9,
+    "bleu4": 0.2883,
+    "model_size_mb": 472,
+    "peak_memory_mb": 941,
+    "compression_ratio": 2.0,
+    "bleu4_vs_pytorch": -0.0008
+  },
+  "onnx_fp32": {
+    "backend": "ONNX Runtime fp32",
+    "latency_per_100": 22.1,
+    "bleu4": 0.2889,
+    "model_size_mb": 890,
+    "peak_memory_mb": 1640,
+    "compression_ratio": 1.06,
+    "bleu4_vs_pytorch": -0.0002
+  },
+  "coreml_4bit": {
+    "backend": "CoreML 4-bit",
+    "latency_per_100": 9.3,
+    "bleu4": 0.2734,
+    "model_size_mb": 198,
+    "peak_memory_mb": 312,
+    "compression_ratio": 4.78,
+    "bleu4_vs_pytorch": -0.0157
+  },
+  "metadata": {
+    "eval_images": 100,
+    "image_size": 224,
+    "device": "Apple M-series (MPS / Neural Engine)",
+    "date": "March 2026",
+    "coco_split": "validation",
+    "note": "BLEU-4 computed on 100 COCO val images with single reference caption"
+  }
+}

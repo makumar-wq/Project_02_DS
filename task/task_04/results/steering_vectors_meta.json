@@ -1,0 +1,14 @@
+{
+  "hidden_dim": 768,
+  "styles": [
+    "short",
+    "medium",
+    "detailed"
+  ],
+  "d_short2detail_norm": 1.0,
+  "d_short2medium_norm": 1.0,
+  "cos_sim_directions": 0.793437,
+  "n_short": 391,
+  "n_medium": 1985,
+  "n_detailed": 125
+}

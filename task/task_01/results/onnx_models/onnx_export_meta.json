@@ -1,0 +1,18 @@
+{
+  "encoder_path": "/Users/makumar/Documents/python/project_02/task/task_01/results/onnx_models/blip_encoder.onnx",
+  "encoder_size_mb": 344.6,
+  "decoder_path": "/Users/makumar/Documents/python/project_02/task/task_01/results/onnx_models/blip_decoder.onnx",
+  "decoder_size_mb": 645.8,
+  "total_size_mb": 990.4,
+  "opset": 14,
+  "demo_mode": false,
+  "dynamic_axes": {
+    "encoder": [
+      "batch"
+    ],
+    "decoder": [
+      "batch",
+      "sequence_length"
+    ]
+  }
+}

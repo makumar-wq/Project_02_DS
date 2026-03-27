@@ -1,0 +1,22 @@
+{
+  "encoder": {
+    "onnx_path": "results/blip_encoder.onnx",
+    "onnx_size_mb": 341.2,
+    "coreml_path": "results/blip_encoder.mlpackage",
+    "coreml_size_mb": 72.1,
+    "compression_ratio": 4.73
+  },
+  "decoder": {
+    "onnx_path": "results/blip_decoder.onnx",
+    "onnx_size_mb": 549.4,
+    "coreml_path": "results/blip_decoder.mlpackage",
+    "coreml_size_mb": 125.9,
+    "compression_ratio": 4.36
+  },
+  "total_onnx_mb": 890.6,
+  "total_coreml_mb": 198.0,
+  "overall_compression_ratio": 4.5,
+  "quantization_bits": 4,
+  "compute_units": "CPU_AND_NE",
+  "demo_mode": true
+}

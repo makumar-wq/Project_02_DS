@@ -1,0 +1,11 @@
+[
+  {
+    "image_id": 253,
+    "original_caption": "a black dog sitting on the floor next to a toilet.",
+    "clean_caption": "a black dog sitting on the floor next to a toilet.",
+    "original_score": 0.6278,
+    "clean_score": null,
+    "toxicity_delta": null,
+    "mitigated": false
+  }
+]

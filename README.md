@@ -254,6 +254,57 @@ More beams and slight preference for conciseness improve caption quality by ~13%
 
 Raw works best for this already-clean dataset. Filtering recommended for noisier data.
 
+### 4. Caption Diversity & Concept Steering (Task 4)
+
+| Analysis | Key Result |
+|---|---|
+| Mean diversity score (200 COCO images, 5 captions each, p=0.9) | **0.671** |
+| Repetitive images (score < 0.40) | **30%** of images |
+| Diverse images (score > 0.75) | **44%** of images |
+| Steering at λ=+2.0 vs λ=0 (h += λ × d_short2detail) | **+65% caption length** |
+| Optimal steering range (fluent style shift) | **λ ∈ [0.5, 1.0]** |
+
+**Takeaway:** Simple objects generate repetitive captions even at high nucleus-sampling `p`. Concept steering via mean hidden-state differences shifts generation style controllably without retraining.
+
+### 5. Toxicity & Bias Detection with Mitigation (Task 5)
+
+| Analysis | Key Result |
+|---|---|
+| Captions scored (unitary/toxic-bert, 6-label) | **1000 COCO captions** |
+| Toxicity flagging rate (max score ≥ 0.5) | **1.4%** — mild pejoratives only |
+| Captions with gender/age stereotype pattern | **29.1%** — inherited from COCO data |
+| Most common bias | Women → domestic roles, Men → sports |
+| Mitigation (BadWords logit penalty, 200 token sequences) | **62.5%** of flagged captions cleaned |
+| Mean toxicity score reduction after mitigation | **−0.55** score units |
+| BLEU-2 degradation after filtering | **< 2%** — content preserved |
+
+**Takeaway:** BLIP almost never generates overtly toxic captions, but gender and age stereotyping from the COCO corpus appears in ~29% of outputs. Logit penalty mitigation removes toxicity with minimal quality impact.
+
+---
+
+## Newer Implemented Tasks (Task 01 to Task 05)
+
+The repository now includes five standalone task pipelines under `task/`, each with modular step scripts, a master `pipeline.py`, and reproducible outputs in each task's `results/` folder.
+
+| Task | What Was Implemented | Key Outcome | Run |
+|---|---|---|---|
+| **Task 01** | BLIP optimization pipeline: memory-efficient fine-tuning (gradient checkpointing + AMP), ONNX export, CoreML conversion, 4-bit quantization, benchmarking | CoreML INT4 path achieved ~3.1x speedup and ~4.5x model size reduction with small BLEU drop | `venv/bin/python task/task_01/pipeline.py --demo` |
+| **Task 02** | Attention grounding pipeline: BLIP cross-attention visualization evolved from raw averaging -> GradCAM -> multi-layer attention flow rollout + IoU auto-grading with OWL-ViT | Attention Flow significantly improved grounding precision (notably object-level IoU) | `venv/bin/python task/task_02/pipeline.py` |
+| **Task 03** | Beam search x length-penalty ablation grid (9 configs) with CIDEr/BLEU/METEOR/ROUGE + latency + Pareto analysis | Best quality at `beam=5, length_penalty=1.0`; best balanced deployment config at `beam=3, length_penalty=1.0` | `venv/bin/python task/task_03/pipeline.py --demo` |
+| **Task 04** | Caption diversity analysis (nucleus sampling) + hidden-state steering vectors for style control (`h + λd`) without retraining | Diversity varies strongly by scene complexity; λ-sweep shows controllable caption length/detail | `venv/bin/python task/task_04/pipeline.py --demo` |
+| **Task 05** | Safety/fairness audit pipeline: 6-label toxicity scoring, stereotype-pattern bias audit, bad-words logit mitigation, fairness report generation | Low severe toxicity but measurable stereotype patterns; mitigation reduces flagged toxicity with minimal quality loss | `venv/bin/python task/task_05/pipeline.py --demo` |
+
+### Task Directory Overview
+
+```text
+task/
+├── task_01/  # BLIP optimization + ONNX/CoreML/quantization
+├── task_02/  # Attention visualization + grounding auto-grading
+├── task_03/  # Beam/length ablation + Pareto trade-off analysis
+├── task_04/  # Diversity analysis + concept steering vectors
+└── task_05/  # Toxicity/bias audit + mitigation + fairness report
+```
+
 ---
 
 ## Project Structure
@@ -287,6 +338,32 @@ project_02/
 │   ├── parameter_sweep.py             # Beam search settings sweep
 │   ├── data_prep_analysis.py          # Caption filtering comparison
 │   └── cross_attention_patterns.py    # Architecture comparison table
+│
+├── task/                               # Standalone task analyses
+│   ├── task_01/                        # BLIP fine-tuning + ONNX/CoreML export
+│   ├── task_02/                        # Attention flow & GradCAM visualizations
+│   ├── task_03/                        # Beam search × length penalty ablation (9 configs)
+│   ├── task_04/                        # Caption diversity & concept steering vectors
+│   │   ├── step1_load_model.py         # BLIP loader with fine-tuned checkpoint fallback
+│   │   ├── step2_prepare_data.py       # COCO DataLoader + style caption sets
+│   │   ├── step3_diversity_analysis.py # 5 nucleus captions/image, diversity score
+│   │   ├── step4_steering_vectors.py   # Mean hidden states → steering directions
+│   │   ├── step5_steer_and_eval.py     # h += λ×d forward-hook decode, λ sweep
+│   │   ├── step6_visualize.py          # 3 publication figures (incl. real COCO thumbnails)
+│   │   ├── step7_analyze.py            # Findings report + findings.md
+│   │   ├── demo_gradio.py              # User-upload Gradio demo for HF Spaces
+│   │   ├── pipeline.py                 # Master orchestrator (--demo or live)
+│   │   └── results/                    # Pre-computed JSONs + generated PNGs + image thumbnails
+│   └── task_05/                        # Toxicity & bias detection with mitigation
+│       ├── step1_load_model.py         # BLIP + unitary/toxic-bert loader
+│       ├── step2_prepare_data.py       # 1000-caption generator
+│       ├── step3_toxicity_score.py     # 6-label toxicity scoring
+│       ├── step4_bias_audit.py         # Lexicon stereotype detection & frequency table
+│       ├── step5_mitigate.py           # BadWords logit penalty (200 token sequences)
+│       ├── step6_visualize.py          # 3 fairness figures
+│       ├── step7_fairness_report.py    # Full markdown fairness report generator
+│       ├── pipeline.py                 # Master orchestrator (--demo or live)
+│       └── results/                    # Scores, audit JSON, 3 PNGs, fairness_report.md
 │
 ├── outputs/                            # Saved model checkpoints
 │   ├── blip/{best,latest}/

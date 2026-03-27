@@ -1,0 +1,36 @@
+{
+  "epochs": [
+    1,
+    2,
+    3
+  ],
+  "train_loss": [
+    2.847,
+    2.341,
+    2.109
+  ],
+  "val_cider": [
+    0.4012,
+    0.5431,
+    0.6199
+  ],
+  "val_bleu4": [
+    0.1834,
+    0.2341,
+    0.2701
+  ],
+  "lr": [
+    9.4e-06,
+    7.1e-06,
+    3.2e-06
+  ],
+  "memory_saved_pct": 48.3,
+  "throughput_gain_pct": 37.6,
+  "model_sizes_mb": {
+    "base_fp32": 945,
+    "onnx_fp32_encoder": 341,
+    "onnx_fp32_decoder": 549,
+    "coreml_4bit_encoder": 72,
+    "coreml_4bit_decoder": 126
+  }
+}

@@ -1,0 +1,2402 @@
+[
+  {
+    "image_id": 22,
+    "captions": [
+      "a bus riding down the street next to parked cars.",
+      "two people are walking down a street in a town.",
+      "a blue and white bus sitting on the street.",
+      "a man is walking across a street with his luggage on his shoulder.",
+      "a bus that is parked at the side of a road."
+    ],
+    "diversity_score": 0.7921,
+    "category": "diverse"
+  },
+  {
+    "image_id": 196,
+    "captions": [
+      "an old lady cross country skis down a snowy path",
+      "a lady in a blue coat is skiing in the snow.",
+      "a woman in skis and hat holding ski poles on a snow covered trail.",
+      "an older woman on skies skiing through the snow.",
+      "a person on skis on a trail near trees."
+    ],
+    "diversity_score": 0.7921,
+    "category": "diverse"
+  },
+  {
+    "image_id": 88,
+    "captions": [
+      "a boy is playing soccer with another young man and young women.",
+      "young people play soccer outside on a grassy field",
+      "a young boy and girl playing soccer in the grass.",
+      "kids in blue and orange playing a game of soccer.",
+      "a soccer player running with the ball while another player and a girl jump to catch it."
+    ],
+    "diversity_score": 0.7838,
+    "category": "diverse"
+  },
+  {
+    "image_id": 95,
+    "captions": [
+      "man and woman sitting on a television screen.",
+      "the woman who is checking the truck has her photo taken",
+      "a person that is standing in a pink truck.",
+      "a man wearing a hat in front of a tv",
+      "a man and a woman are on a video concierry"
+    ],
+    "diversity_score": 0.7802,
+    "category": "diverse"
+  },
+  {
+    "image_id": 77,
+    "captions": [
+      "doughnuts with icing inside of a muffin maker.",
+      "doughnuts sitting on a wire rack for baking",
+      "black and white photograph of doughnuts on an oven rack.",
+      "donuts are being baked on a pan.",
+      "a black and white photo of doughnuts in an oven."
+    ],
+    "diversity_score": 0.7778,
+    "category": "diverse"
+  },
+  {
+    "image_id": 103,
+    "captions": [
+      "a man with long hair and a black shirt playing video games while watching television.",
+      "man with wii controller watching tv in bed.",
+      "a woman sits on a couch while a man plays a video game on a tv",
+      "two people sit on a bed one has a controller.",
+      "a couple of men standing next to each other on a bed."
+    ],
+    "diversity_score": 0.7778,
+    "category": "diverse"
+  },
+  {
+    "image_id": 149,
+    "captions": [
+      "a traffic light sitting on the corner of a street",
+      "traffic lights at a busy intersection in the town.",
+      "a very big blue sky with white clouds over the street",
+      "a large street with traffic lights on a street.",
+      "a truck driving down a busy street under a stoplight"
+    ],
+    "diversity_score": 0.7742,
+    "category": "diverse"
+  },
+  {
+    "image_id": 46,
+    "captions": [
+      "an elephant is drinking water from a pond",
+      "three elephants are standing near a watering hole.",
+      "elephants at the watering hole drinking water.",
+      "an elephant drinking water out of a water hole.",
+      "a bunch of elephants walking through a field."
+    ],
+    "diversity_score": 0.7733,
+    "category": "diverse"
+  },
+  {
+    "image_id": 48,
+    "captions": [
+      "an elephant in a zoo setting with rocks behind it.",
+      "an elephant standing alone in the forest next to some trees.",
+      "an elephant walking through a forest area with a tree on a sunny day",
+      "the elephant is under a tree eating grass",
+      "a elephant walking around inside of a forest."
+    ],
+    "diversity_score": 0.7732,
+    "category": "diverse"
+  },
+  {
+    "image_id": 136,
+    "captions": [
+      "a sidewalk with two bikes parked outside of buildings",
+      "a woman walks down a street next to a row of buildings.",
+      "a group of motorcycles parked in front of a cafe",
+      "the two bicycles are parked on the sidewalk.",
+      "a woman on a cell phone and bicycles parked in the street"
+    ],
+    "diversity_score": 0.7629,
+    "category": "diverse"
+  },
+  {
+    "image_id": 185,
+    "captions": [
+      "a person is pulling luggage with a cart in the hallway.",
+      "a couple of men walking around a terminal with luggage",
+      "people are walking around an airport filled with luggage.",
+      "a woman pulling luggage while a man is pushing a cart.",
+      "people in a baggage court with luggage and baggage handlers."
+    ],
+    "diversity_score": 0.7629,
+    "category": "diverse"
+  },
+  {
+    "image_id": 62,
+    "captions": [
+      "a white horse standing next to a wooden fence.",
+      "a close up of a horse on dirt with trees in the background.",
+      "a gray horse stands in front of a fence",
+      "a horse in a fenced in area with hills and hills.",
+      "a grey horse staring at the camera in a dirt field"
+    ],
+    "diversity_score": 0.7624,
+    "category": "diverse"
+  },
+  {
+    "image_id": 119,
+    "captions": [
+      "two stuffed bears dressed up with ties and a red ribbon.",
+      "a teddy bear with a dress and tie standing next to a tree",
+      "a teddy bear dressed up in an asian style outfit.",
+      "teddy bear with scarf hanging on wall in lobby.",
+      "a stuffed bear that is sitting on a rock"
+    ],
+    "diversity_score": 0.7576,
+    "category": "diverse"
+  },
+  {
+    "image_id": 51,
+    "captions": [
+      "a couple of women walking past a stone wall with an umbrella.",
+      "a couple of people walking around while one woman holds an umbrella.",
+      "two women are walking down a sidewalk with an umbrella.",
+      "a girl holding an umbrella while talking on a cell phone.",
+      "the girl in the green tank top is walking by the stone wall."
+    ],
+    "diversity_score": 0.7568,
+    "category": "diverse"
+  },
+  {
+    "image_id": 75,
+    "captions": [
+      "two frosted donuts on a white plate next to a wine bottle.",
+      "a plate with some type of donut on it",
+      "three doughnuts with white frosting on a plate",
+      "two donuts with chocolate and icing sit on a paper plate",
+      "two different donuts sitting on top of a plate."
+    ],
+    "diversity_score": 0.7527,
+    "category": "diverse"
+  },
+  {
+    "image_id": 163,
+    "captions": [
+      "a locomotive engine pulling a train carts along a railroad track.",
+      "an orange and yellow train going down train tracks.",
+      "a long orange and black train traveling through the countryside.",
+      "a train on train tracks with a lot of trees in the background.",
+      "a train moving along a country railroad track."
+    ],
+    "diversity_score": 0.7526,
+    "category": "diverse"
+  },
+  {
+    "image_id": 49,
+    "captions": [
+      "some people on a street one is holding a red white and blue umbrella.",
+      "a person with a flag umbrella standing on a sidewalk.",
+      "a woman holds an umbrella with a british flag.",
+      "people with umbrellas walking down a city street",
+      "a group of people stand under an umbrella on a sidewalk."
+    ],
+    "diversity_score": 0.7475,
+    "category": "medium"
+  },
+  {
+    "image_id": 122,
+    "captions": [
+      "a man putting a microwave inside a stove",
+      "a man opening the oven to check the lid",
+      "a man is reaching into the oven door.",
+      "a man taking out a hot pot out of the oven.",
+      "a man in blue jeans holding up an oven door"
+    ],
+    "diversity_score": 0.7471,
+    "category": "medium"
+  },
+  {
+    "image_id": 109,
+    "captions": [
+      "a display of vases in a room with a woman in the background",
+      "many different items on display in a pottery shop.",
+      "a number of fancy vases that are in the wall",
+      "a store display with blue, orange and green dishes and bowls.",
+      "blue and white ceramics with a girl in the background"
+    ],
+    "diversity_score": 0.7426,
+    "category": "medium"
+  },
+  {
+    "image_id": 82,
+    "captions": [
+      "a wedding cake with a teddy bear on top.",
+      "the wedding cake is covered in a blue ribbon",
+      "a white cake is topped with a figurine of a dog.",
+      "the cake was designed to look like an old military soldier.",
+      "a close up of a wedding cake with candles and decorations."
+    ],
+    "diversity_score": 0.7423,
+    "category": "medium"
+  },
+  {
+    "image_id": 47,
+    "captions": [
+      "a long boat traveling through a large river.",
+      "a large boat that is floating on the water.",
+      "a tour boat sailing on the water near a ferris wheel.",
+      "a white boat on a body of water under a cloudy sky.",
+      "a river boat that is going by the bridge."
+    ],
+    "diversity_score": 0.7419,
+    "category": "medium"
+  },
+  {
+    "image_id": 44,
+    "captions": [
+      "a group of people gather together to see if something has been put in it.",
+      "a crowd of people in a crowd, all looking at something, with a man in a fedora in his shirt",
+      "people at an outdoor event are looking at a hand bag.",
+      "several people wearing hats and holding something in a crowd",
+      "a group of people are outside next to each other."
+    ],
+    "diversity_score": 0.7402,
+    "category": "medium"
+  },
+  {
+    "image_id": 93,
+    "captions": [
+      "a small child laying on a bed with flowers.",
+      "a toddler lies in bed under the covers.",
+      "a young child is sleeping under a comforter.",
+      "a little baby lays in a bed in a child ' s room.",
+      "a small baby laying in the middle of a bed."
+    ],
+    "diversity_score": 0.7363,
+    "category": "medium"
+  },
+  {
+    "image_id": 76,
+    "captions": [
+      "a woman and a man stand in front of pastries of bread.",
+      "a couple of people that are standing by a shelf of food",
+      "a man and woman posing in a bakery store while looking into a food section.",
+      "woman with a hat standing next to a man in a bakery shop.",
+      "a woman standing between two racks of different donuts."
+    ],
+    "diversity_score": 0.735,
+    "category": "medium"
+  },
+  {
+    "image_id": 146,
+    "captions": [
+      "a zebra and two giraffes graze on dry grass in a field.",
+      "the giraffe and the zebra are grazing in the sun.",
+      "a zebra and some other animals are out in a field",
+      "the zebra is eating the grass while the giraffes are grazing.",
+      "three giraffes stand in a grassy field with trees behind them."
+    ],
+    "diversity_score": 0.7333,
+    "category": "medium"
+  },
+  {
+    "image_id": 104,
+    "captions": [
+      "a room with a window, bookshelf and a table",
+      "a brown sofa sitting next to a coffee table.",
+      "a brown chair a table and some books",
+      "a wooden table is in a room with windows.",
+      "a living room with an area rug and red chair."
+    ],
+    "diversity_score": 0.7294,
+    "category": "medium"
+  },
+  {
+    "image_id": 173,
+    "captions": [
+      "a man standing on top of a carpet covered floor.",
+      "a man standing in a room with others talking.",
+      "a group of people inside a building with a man in a white shirt",
+      "two men, one with long black hair, are standing together in a room with red carpet.",
+      "there is a man wearing a tie in the room."
+    ],
+    "diversity_score": 0.7257,
+    "category": "medium"
+  },
+  {
+    "image_id": 8,
+    "captions": [
+      "a broken toilet is shown outside on a dirt trail.",
+      "a bathroom toilet bowl with paper, toilet roll and trash can.",
+      "a toilet in a junky area in the woods.",
+      "a broken white toilet sitting on top of a pile of trash",
+      "a broken toilet in the woods"
+    ],
+    "diversity_score": 0.7253,
+    "category": "medium"
+  },
+  {
+    "image_id": 16,
+    "captions": [
+      "a figurine is standing near a fake baby giraffe.",
+      "a statue of a giraffe stands in front of a painting.",
+      "the toy giraffe is walking around a car next to the wall.",
+      "small model of a baby giraffe next to a painted wall.",
+      "an animal next to a little toy car"
+    ],
+    "diversity_score": 0.7216,
+    "category": "medium"
+  },
+  {
+    "image_id": 21,
+    "captions": [
+      "a bus is stopped in an intersection next to a sidewalk.",
+      "a bus is turning around a corner in the street.",
+      "a large city bus riding down a busy street.",
+      "a yellow bus traveling down a street next to a curb.",
+      "people getting on and off a bus in a city."
+    ],
+    "diversity_score": 0.7216,
+    "category": "medium"
+  },
+  {
+    "image_id": 91,
+    "captions": [
+      "a small pizza with green peppers and cheese.",
+      "a pizza with a very big amount of toppings on it.",
+      "a pizza has many toppings on top of it",
+      "a pizza that has been sliced into pieces on a cutting board.",
+      "a freshly made pizza on a cutting board and a bottle"
+    ],
+    "diversity_score": 0.7216,
+    "category": "medium"
+  },
+  {
+    "image_id": 139,
+    "captions": [
+      "a child with a birthday cake on a table.",
+      "a toddler holding a fork and standing over a small cupcake.",
+      "the small child is enjoying the cake at the table.",
+      "the baby is having a birthday cake with candles.",
+      "a young child stands at a table with a cake."
+    ],
+    "diversity_score": 0.7204,
+    "category": "medium"
+  },
+  {
+    "image_id": 2,
+    "captions": [
+      "a woman and man standing on the sidewalk in front of a store.",
+      "a man and woman walking along a city sidewalk",
+      "a man walking down a sidewalk carrying a bag and a backpack.",
+      "man pushing a luggage cart pulled by woman",
+      "a woman wearing a blue shirt is carrying a bag"
+    ],
+    "diversity_score": 0.7172,
+    "category": "medium"
+  },
+  {
+    "image_id": 20,
+    "captions": [
+      "a person is sitting next to a truck in the street",
+      "a big blue bus is shown with the american flag painted on it.",
+      "a bus with a banner on it on the side of the road.",
+      "a man is standing by the side of the bus",
+      "the man is standing near the blue bus."
+    ],
+    "diversity_score": 0.7143,
+    "category": "medium"
+  },
+  {
+    "image_id": 120,
+    "captions": [
+      "a vase with a brown face in the middle of a table",
+      "a small brown pot sitting on top of a piece of paper.",
+      "a clay vase painted with a red brush.",
+      "a close up of a mug on a table",
+      "the inside of a vase is being painted."
+    ],
+    "diversity_score": 0.7097,
+    "category": "medium"
+  },
+  {
+    "image_id": 195,
+    "captions": [
+      "a woman wearing pink jacket and snowshofs in snow covered woods.",
+      "a woman wearing pink is skiing in a snowy woods.",
+      "a man cross country skiing through snow covered forest.",
+      "a person riding skis down a snow covered ski slope",
+      "a person in skis is walking in the snow."
+    ],
+    "diversity_score": 0.7097,
+    "category": "medium"
+  },
+  {
+    "image_id": 57,
+    "captions": [
+      "a couple of zebras grazing on grass near a body of water.",
+      "a lone zebra in the middle of a field next to the water",
+      "a zebra and a gazelle grazing on a grass field.",
+      "the zebra and the antelope graze together in the open field",
+      "a zebra walking through a grass covered field."
+    ],
+    "diversity_score": 0.7087,
+    "category": "medium"
+  },
+  {
+    "image_id": 188,
+    "captions": [
+      "a bear on a rock in a zoo setting.",
+      "a black bear walking near a stone wall.",
+      "a young bear with dark colored fur walking on a dirt ground.",
+      "a black bear standing next to a tree.",
+      "a bear on a rock looks off into the distance."
+    ],
+    "diversity_score": 0.7079,
+    "category": "medium"
+  },
+  {
+    "image_id": 67,
+    "captions": [
+      "there is a dish of pasta and broccoli on the table",
+      "a black bowl filled with a lot of food.",
+      "a bowl of stir fried noodles and broccoli.",
+      "a picture of food in a bowl with broccoli",
+      "a plate of stir fried pasta and broccoli"
+    ],
+    "diversity_score": 0.7059,
+    "category": "medium"
+  },
+  {
+    "image_id": 124,
+    "captions": [
+      "a young child sitting on a toilet brush in the bathroom.",
+      "a small child with a brush in a bathroom",
+      "a toddler brushes his hair in the bathroom",
+      "toddler brushing teeth with an apple shaped blade.",
+      "a young child brushing his head in a sink."
+    ],
+    "diversity_score": 0.7059,
+    "category": "medium"
+  },
+  {
+    "image_id": 55,
+    "captions": [
+      "a large white bear standing on a rock beside water.",
+      "a polar bear and its shadow are seen in the water.",
+      "an adult polar bear is standing near the water.",
+      "a polar bear at a water body with its wings open.",
+      "a polar bear standing by a body of water."
+    ],
+    "diversity_score": 0.7053,
+    "category": "medium"
+  },
+  {
+    "image_id": 131,
+    "captions": [
+      "a woman that is standing in the kitchen.",
+      "a woman holding a fry pan over a kitchen stove.",
+      "a woman standing in the corner of a room by an oven.",
+      "a woman that is kneeling down with some pots in it.",
+      "a woman leaning over to wash a dirty stove."
+    ],
+    "diversity_score": 0.7053,
+    "category": "medium"
+  },
+  {
+    "image_id": 66,
+    "captions": [
+      "a bowl of ice cream surrounded with candy and sprinkles",
+      "blue cup filled with rice, cream, chocolate, and other toppings.",
+      "a bowl of ice cream covered with toppings and a bite of chocolate.",
+      "a person holding a plastic bowl of desserts with marsh and toppings.",
+      "someone is holding up a bowl of cereal and toppings"
+    ],
+    "diversity_score": 0.7048,
+    "category": "medium"
+  },
+  {
+    "image_id": 23,
+    "captions": [
+      "two transit buses on a street with cars parked on both sides.",
+      "a city bus drives through traffic on a residential road.",
+      "a bus is driving down a busy road.",
+      "a bus on the road with other cars passing.",
+      "a street with cars and a bus on it"
+    ],
+    "diversity_score": 0.7033,
+    "category": "medium"
+  },
+  {
+    "image_id": 19,
+    "captions": [
+      "there are many cars on a road near an old wall",
+      "a street in front of a building with a fence with a horse statue on the side of the road.",
+      "cars are on the street near a building and a car is on the street.",
+      "a bus is stopped on a busy street with a car in front.",
+      "the scene is in the daytime sky over the city"
+    ],
+    "diversity_score": 0.6992,
+    "category": "medium"
+  },
+  {
+    "image_id": 13,
+    "captions": [
+      "a television set is next to a bed and a bookshelf.",
+      "a small tv sitting on a dresser next to a white bed.",
+      "a tv is mounted on a wooden shelf.",
+      "a large window with white curtains has a television in the corner.",
+      "a bedroom with a bookcase and a television on a stand"
+    ],
+    "diversity_score": 0.699,
+    "category": "medium"
+  },
+  {
+    "image_id": 182,
+    "captions": [
+      "a small patio table that has a umbrella on it.",
+      "a woman sits at a table outside under an umbrella.",
+      "a person sitting at a picnic table with a patio umbrella.",
+      "a patio with a wooden deck and an umbrella and a green table",
+      "a woman sits under a large umbrella near the table."
+    ],
+    "diversity_score": 0.699,
+    "category": "medium"
+  },
+  {
+    "image_id": 138,
+    "captions": [
+      "a red toilet lid sitting inside of a room",
+      "the floor of an old bathroom with a toilet",
+      "a small toilet in a small room that looks rotten.",
+      "a small room has a red bucket with a piece of toilet.",
+      "the toilet is covered with a lot of stuff."
+    ],
+    "diversity_score": 0.6989,
+    "category": "medium"
+  },
+  {
+    "image_id": 156,
+    "captions": [
+      "a giraffe that is standing by some trees.",
+      "a giraffe leaning over to eat leaves from a tree",
+      "a giraffe standing in front of a tall tree",
+      "a giraffe standing near some tall trees in a field",
+      "a giraffe standing next to a wooden pole on a dirt field"
+    ],
+    "diversity_score": 0.6989,
+    "category": "medium"
+  },
+  {
+    "image_id": 168,
+    "captions": [
+      "a banana tree with a bunch of green bananas on the side of it",
+      "a large tree with lots of green plants",
+      "the banana tree has no leaves in the shade.",
+      "there is a very large leaf on this plant.",
+      "a green banana tree has yellow bananas on it"
+    ],
+    "diversity_score": 0.6989,
+    "category": "medium"
+  },
+  {
+    "image_id": 32,
+    "captions": [
+      "a train travels through a tunnel that ' s surrounded by trees.",
+      "a blue train going under a tunnel in the woods.",
+      "a train with people inside of it traveling down a track.",
+      "a blue train traveling down train tracks near a tunnel.",
+      "a train traveling past a tunnel on the track."
+    ],
+    "diversity_score": 0.697,
+    "category": "medium"
+  },
+  {
+    "image_id": 134,
+    "captions": [
+      "a kitchen with wooden floor and white chairs",
+      "a table and chairs in a cabin kitchen.",
+      "a small wooden table surrounded by a chair with a bottle of wine.",
+      "a table in a rustic kitchen with a white chair.",
+      "the table has a small chair at it."
+    ],
+    "diversity_score": 0.6966,
+    "category": "medium"
+  },
+  {
+    "image_id": 150,
+    "captions": [
+      "the woman has her shoes in the shape of a pair of pink heels.",
+      "woman in high heels on wooden deck with painted wood background.",
+      "someone wearing pink shoes standing on a bench",
+      "the foot of a person with pink shoelaces on a wooden bench",
+      "a pair of pink heels standing on a colorful surface."
+    ],
+    "diversity_score": 0.6952,
+    "category": "medium"
+  },
+  {
+    "image_id": 10,
+    "captions": [
+      "a large group of people on motorcycles in a city",
+      "two men riding on motor bikes on the street",
+      "a few motor cycles in a city with a tall building.",
+      "two people are sitting on a motor scooter in the street.",
+      "a few men are riding motorcycles on a street."
+    ],
+    "diversity_score": 0.6947,
+    "category": "medium"
+  },
+  {
+    "image_id": 63,
+    "captions": [
+      "a man in a blue jacket and sunglasses is skiing down the snow.",
+      "a man in skis with ski poles standing in snow",
+      "a person on a pair of skis is smiling",
+      "a man is walking in the snow while wearing skis.",
+      "a person that is standing in the snow with some skis."
+    ],
+    "diversity_score": 0.6931,
+    "category": "medium"
+  },
+  {
+    "image_id": 100,
+    "captions": [
+      "a woman on a tennis court wearing a headband with a tennis racket.",
+      "a tennis player holding a racquet on a tennis court.",
+      "a tennis player is about to hit the ball.",
+      "an image of a tennis player taking a swing at a ball.",
+      "an old woman is stretching for her tennis game."
+    ],
+    "diversity_score": 0.6931,
+    "category": "medium"
+  },
+  {
+    "image_id": 198,
+    "captions": [
+      "a yellow bowl containing fruit, vegetables and rice",
+      "a yellow bowl containing fruits, rice, and other fruit on a pink table",
+      "a yellow bowl containing vegetables that are part of a fruit bowl",
+      "a yellow tray with a few fruits in it",
+      "a bento with vegetables, fruit, rice and a side of watermelon."
+    ],
+    "diversity_score": 0.6931,
+    "category": "medium"
+  },
+  {
+    "image_id": 12,
+    "captions": [
+      "a door that has a sign on it",
+      "a small potted flower in front of a plaque.",
+      "a building with a plaque next to a bunch of flowers.",
+      "old door opened to old building with a plaque",
+      "a wall with a potted plant and a plaque on it"
+    ],
+    "diversity_score": 0.6923,
+    "category": "medium"
+  },
+  {
+    "image_id": 30,
+    "captions": [
+      "a black bird with a pink ear on top of a hill with dry grass.",
+      "there is a bird that is standing in the grass",
+      "a bird standing in the grass and weeds.",
+      "a pair of black birds standing in a grass field.",
+      "a wild bird walks in the dry brush."
+    ],
+    "diversity_score": 0.6907,
+    "category": "medium"
+  },
+  {
+    "image_id": 191,
+    "captions": [
+      "a man stands and throws a frisbee outside in a forest.",
+      "the man is holding a game controller in a wooded area.",
+      "a man plays with a frisbee while standing in the forest.",
+      "a man playing with a toy on a field.",
+      "a man is tossing a baseball into the dirt"
+    ],
+    "diversity_score": 0.6907,
+    "category": "medium"
+  },
+  {
+    "image_id": 54,
+    "captions": [
+      "the man is standing near the train station with his bags.",
+      "a man stands by the side of a railroad track while standing next to several luggage on the platform.",
+      "a young man stands beside a train track as a large bag of luggage sits next to him.",
+      "a man stands on a platform next to the train track.",
+      "a man standing by a rail way with a train and a bag."
+    ],
+    "diversity_score": 0.6906,
+    "category": "medium"
+  },
+  {
+    "image_id": 117,
+    "captions": [
+      "a very large pizza pie in a white pie dish.",
+      "a cheese topped pizza on a plate with a tordil.",
+      "a large white dish containing cheese enchilada",
+      "a pizza dish on a plate with tortilla",
+      "a plate of tortilla, chips and tortillas on a red cloth with a napkin."
+    ],
+    "diversity_score": 0.6882,
+    "category": "medium"
+  },
+  {
+    "image_id": 137,
+    "captions": [
+      "bus parked in front of a bus stop with people and vehicles",
+      "an old white van on the street outside of a mall.",
+      "a blue and white rv parked in front of a building.",
+      "a tour bus is parked near a man on a bicycle",
+      "a white and blue bus on a street next to a building."
+    ],
+    "diversity_score": 0.6881,
+    "category": "medium"
+  },
+  {
+    "image_id": 61,
+    "captions": [
+      "a white horse pulling a carriage and people on a street.",
+      "a cart is a transportation that is very popular for both kids and adults",
+      "a horse and cart being pulled by a man",
+      "a white horse pulling a red and yellow trolley.",
+      "a carriage is pulling a horse down the street."
+    ],
+    "diversity_score": 0.6869,
+    "category": "medium"
+  },
+  {
+    "image_id": 45,
+    "captions": [
+      "a long boat is pulled to the shore by the people.",
+      "a boat with several people on it sits in the water.",
+      "a boat that is sitting on some rocks.",
+      "a boat filled with people on the ocean with a cliff in the background.",
+      "a boat is sailing on the calm waters in the sea"
+    ],
+    "diversity_score": 0.6857,
+    "category": "medium"
+  },
+  {
+    "image_id": 6,
+    "captions": [
+      "a very small, messy looking bathroom with a trash can and bucket.",
+      "the inside of a bathroom with a bucket and a sink.",
+      "a white toilet next to a green tub on a tiled floor.",
+      "the shower stall has a small potted toilet and a plastic bucket.",
+      "a small bathroom with a shower stall and a trash can."
+    ],
+    "diversity_score": 0.6847,
+    "category": "medium"
+  },
+  {
+    "image_id": 141,
+    "captions": [
+      "a bathroom with a blue wall and a toilet",
+      "a white toilet sitting next to a cup on a metal stool.",
+      "a picture of a toilet with a plate that has a cookie in it",
+      "a small side table with a metal base holding a cookie on top.",
+      "a toilet with a small wooden seat in a bathroom."
+    ],
+    "diversity_score": 0.6847,
+    "category": "medium"
+  },
+  {
+    "image_id": 15,
+    "captions": [
+      "a large white airplane parked on the runway",
+      "a airplane on the tarmac at an airport.",
+      "a woman is walking out of the window of a plane.",
+      "a large white airplane parked in an airport.",
+      "a passenger jet getting off a runway on the ground."
+    ],
+    "diversity_score": 0.6824,
+    "category": "medium"
+  },
+  {
+    "image_id": 83,
+    "captions": [
+      "two men in a field kicking a ball with two opposing people.",
+      "two soccer players compete for the ball on the field.",
+      "man with orange shirt and orange shorts kicking soccer ball",
+      "a man with a soccer ball in the middle of an action.",
+      "a man in a blue and white uniform kicking a soccer ball"
+    ],
+    "diversity_score": 0.6822,
+    "category": "medium"
+  },
+  {
+    "image_id": 125,
+    "captions": [
+      "the vase holds the red tulips and white tulips.",
+      "a vase that has several tulips in it.",
+      "a glass vase with several red, white and yellow flowers.",
+      "a vase with white and red tulips in front of a window.",
+      "a vase full of flowers next to a window."
+    ],
+    "diversity_score": 0.6813,
+    "category": "medium"
+  },
+  {
+    "image_id": 199,
+    "captions": [
+      "a woman is skiing down a snowy trail.",
+      "a woman with a pink jacket and blue snow skis poses for a picture.",
+      "a skier stands on a path between trees.",
+      "a woman is skiing down a snowy mountain.",
+      "a female skier skiing on a trail lined with snow"
+    ],
+    "diversity_score": 0.6813,
+    "category": "medium"
+  },
+  {
+    "image_id": 18,
+    "captions": [
+      "a man with a goat and a lot of animals in the dirt.",
+      "a man with a large pack of goats walking in front of a flock of goats",
+      "an old man is herding a group of goats.",
+      "a man stands next to a bunch of goats on a dirt field",
+      "a man standing by a fence and a bunch of animals."
+    ],
+    "diversity_score": 0.6807,
+    "category": "medium"
+  },
+  {
+    "image_id": 43,
+    "captions": [
+      "a picture of a girl with eyes with piercings",
+      "an image of a woman with a piercing on her nose.",
+      "a woman with freckles on her lips and black eyes.",
+      "a girl with red hair and piercings has a black background.",
+      "a red - haired female with piercings around her eyes"
+    ],
+    "diversity_score": 0.6804,
+    "category": "medium"
+  },
+  {
+    "image_id": 114,
+    "captions": [
+      "a baseball player on a field ready to hit a ball.",
+      "a baseball player is swinging at a pitch.",
+      "the batter has just swung and is ready to hit the ball.",
+      "baseball players on a baseball field playing baseball.",
+      "a man taking a picture with a camera at a baseball game."
+    ],
+    "diversity_score": 0.6804,
+    "category": "medium"
+  },
+  {
+    "image_id": 158,
+    "captions": [
+      "a fire hydrant in the middle of a field next to a fence",
+      "a fire hydrant surrounded by green bushes and bushes.",
+      "a white and blue fire hydrant in the grass.",
+      "a fire hydrant sits alone in a grassy field.",
+      "a fire hydrant near a bush with green leaves in it."
+    ],
+    "diversity_score": 0.6804,
+    "category": "medium"
+  },
+  {
+    "image_id": 164,
+    "captions": [
+      "a yellow passenger train is stopped on a set of tracks near the ocean",
+      "a commuter train is parked on the tracks.",
+      "a yellow and black train some rocks and a hill",
+      "a train is parked on the railroad tracks.",
+      "a train on tracks with people walking on side of track"
+    ],
+    "diversity_score": 0.6804,
+    "category": "medium"
+  },
+  {
+    "image_id": 192,
+    "captions": [
+      "a zebra standing in a grass covered field.",
+      "the zebra is eating grass off of the ground.",
+      "a zebra that is grazing on some grass.",
+      "a zebra grazing on grass next to a river",
+      "a zebra is standing in the grass by itself."
+    ],
+    "diversity_score": 0.679,
+    "category": "medium"
+  },
+  {
+    "image_id": 78,
+    "captions": [
+      "a meat sandwich with lettuce and tomatoes on a plate.",
+      "a plate of two sandwiches with lettuce and tomato slices on it.",
+      "a white plate topped with a cut in half sandwich next to a side salad.",
+      "a sandwich and a salad are on a plate.",
+      "a sub sandwich of meat and lettuce on a white plate."
+    ],
+    "diversity_score": 0.6789,
+    "category": "medium"
+  },
+  {
+    "image_id": 90,
+    "captions": [
+      "a patient is lying on a hospital bed",
+      "a man in a hospital bed next to a large monitor on his head",
+      "a person sitting in a hospital bed with a monitor.",
+      "a patient at the doctor ' s office reading a patient ' s medical manual on a computer",
+      "a medical bed room with a doctor looking over his shoulder."
+    ],
+    "diversity_score": 0.6752,
+    "category": "medium"
+  },
+  {
+    "image_id": 116,
+    "captions": [
+      "a batter is getting ready to bat at a baseball game",
+      "a baseball player with a bat on a field.",
+      "a batter waits for the pitch to be called down during a baseball game.",
+      "a batter is holding a bat as a crowd watches in the stands.",
+      "a baseball player standing in front of a home plate at a baseball game"
+    ],
+    "diversity_score": 0.6752,
+    "category": "medium"
+  },
+  {
+    "image_id": 7,
+    "captions": [
+      "the back end of a motorcycle with people walking in the background.",
+      "a motorcycle sits on display with other motorcycles around it.",
+      "a red and black motorcycle at a show",
+      "the back end of a black motorcycle in a building.",
+      "a black motorcycle sitting on top of a white floor."
+    ],
+    "diversity_score": 0.6737,
+    "category": "medium"
+  },
+  {
+    "image_id": 115,
+    "captions": [
+      "big ben and the palace of westminster in london",
+      "a large body of water with a tower clock in the middle of it",
+      "a clock tower towering over a river next to a city.",
+      "a large body of water with boats on it.",
+      "a large clock tower towering over the city of london."
+    ],
+    "diversity_score": 0.6733,
+    "category": "medium"
+  },
+  {
+    "image_id": 184,
+    "captions": [
+      "a black and silver suitcase sitting in the middle of a floor.",
+      "a black suitcase has a white logo on the top.",
+      "a compact sized luggage bag on a white surface.",
+      "a side view of a black luggage on a white background.",
+      "a close up of a suit case on a white background"
+    ],
+    "diversity_score": 0.6733,
+    "category": "medium"
+  },
+  {
+    "image_id": 161,
+    "captions": [
+      "a large swan standing in a body of water.",
+      "a duck sitting in the sand in the background of water.",
+      "an object floating on a body of water",
+      "a large swan is on the beach by the water.",
+      "a large white swan with blue tail near the water."
+    ],
+    "diversity_score": 0.6703,
+    "category": "medium"
+  },
+  {
+    "image_id": 1,
+    "captions": [
+      "a small, clean kitchen with light wood cabinetry and white appliances.",
+      "a refrigerator that is in the middle of a room.",
+      "a kitchen that has wood cabinets and white appliances.",
+      "this is a picture of a kitchen with a breakfast table and refrigerator.",
+      "a small kitchen with wooden cabinets and white appliances."
+    ],
+    "diversity_score": 0.6667,
+    "category": "medium"
+  },
+  {
+    "image_id": 65,
+    "captions": [
+      "a person snow boarding down a snowy mountain.",
+      "a person in purple pants snowboarding on a snow hill",
+      "a person is snowboarding in the snow.",
+      "a young girl in a blue jacket skiing down a mountain.",
+      "a person snowboarding down a snowy slope."
+    ],
+    "diversity_score": 0.6667,
+    "category": "medium"
+  },
+  {
+    "image_id": 169,
+    "captions": [
+      "the white shirt is also the color of the shirt",
+      "the man wears a tie that has a white tiger on it.",
+      "a man in a suit with a tiger tie and two hands holding a pocket",
+      "a man in a dress shirt and tie with a hand on his pocket",
+      "a man wearing a white shirt and a black tie."
+    ],
+    "diversity_score": 0.6667,
+    "category": "medium"
+  },
+  {
+    "image_id": 126,
+    "captions": [
+      "woman standing over lots of chocolate bars in a factory",
+      "a person wearing a pink head scarf is in a factory",
+      "a woman in a hat using a tool to repair something.",
+      "a woman in a pink hat sits at a table using a knife",
+      "a woman in a yellow shirt holding a piece of metal"
+    ],
+    "diversity_score": 0.6636,
+    "category": "medium"
+  },
+  {
+    "image_id": 27,
+    "captions": [
+      "a woman sits and reads while looking out the window of a bus.",
+      "a woman on a bus holding a cellphone",
+      "a woman sitting on a train looking at a cell phone.",
+      "a woman in plaid jacket sitting on a train watching something",
+      "a woman sitting next to a window on a train."
+    ],
+    "diversity_score": 0.6634,
+    "category": "medium"
+  },
+  {
+    "image_id": 132,
+    "captions": [
+      "a brown dog sitting next to a person in a kitchen.",
+      "a man standing in a room with his dog.",
+      "a man standing next to a kitchen counter while a dog watches.",
+      "a dog standing in front of a man with a moustache.",
+      "a man is using a cat to clean a wooden cabinet."
+    ],
+    "diversity_score": 0.6602,
+    "category": "medium"
+  },
+  {
+    "image_id": 79,
+    "captions": [
+      "a person holding a doughnut in his hand.",
+      "a man holding a beer and a piece of donut.",
+      "a person eating a donut covered in white icing and sitting at a table",
+      "a hand holding a donut with frosting, holding a glass",
+      "a close up of a person holding a donut"
+    ],
+    "diversity_score": 0.6598,
+    "category": "medium"
+  },
+  {
+    "image_id": 107,
+    "captions": [
+      "a man in a uniform kicking a soccer ball with the team watching",
+      "a girl playing soccer against a crowd of people",
+      "two young men playing soccer in a field",
+      "people are playing a game of soccer on a soccer field.",
+      "a man kicking a soccer ball around on a field."
+    ],
+    "diversity_score": 0.6598,
+    "category": "medium"
+  },
+  {
+    "image_id": 155,
+    "captions": [
+      "a black and white photo of sheep standing in a fenced in area.",
+      "a small sheep stands in a field near a fence",
+      "two sheep standing near each other on a field",
+      "black and white picture of two sheep standing in the grass",
+      "the lamb is standing outside in the dirt"
+    ],
+    "diversity_score": 0.6598,
+    "category": "medium"
+  },
+  {
+    "image_id": 3,
+    "captions": [
+      "a man riding a skateboard on a ramp.",
+      "skateboarder performing stunt at skateboard park during daytime",
+      "a skateboarder is riding his board in a skate park.",
+      "a person riding a skate board on a ramp",
+      "a man is jumping a skate board over a ramp."
+    ],
+    "diversity_score": 0.6588,
+    "category": "medium"
+  },
+  {
+    "image_id": 176,
+    "captions": [
+      "a man walking a white dog in the rain.",
+      "a woman walks a large dog behind a man on a bike.",
+      "a white dog pulling a leash next to a man with a umbrella.",
+      "a dog and a man holding a leash running in the rain.",
+      "a man smiles as he is walking two dogs in the grass."
+    ],
+    "diversity_score": 0.6577,
+    "category": "medium"
+  },
+  {
+    "image_id": 140,
+    "captions": [
+      "a small toilet with a wooden seat in a dirty room",
+      "a very cute little bathroom with a toilet",
+      "a toilet with a tank and lid made into a robot toilet.",
+      "a toilet in the corner of a dirty room",
+      "a small bathroom stall with a white toilet and a gray blanket."
+    ],
+    "diversity_score": 0.6566,
+    "category": "medium"
+  },
+  {
+    "image_id": 9,
+    "captions": [
+      "a toilet with a water tank and a cord attached to it",
+      "a toilet with a hand held control in a small room",
+      "a toilet with a digital thermometer next to a door.",
+      "a white toilet with a lid open with a clock on it.",
+      "a toilet sitting next to a wall covered with electrical cord."
+    ],
+    "diversity_score": 0.6542,
+    "category": "medium"
+  },
+  {
+    "image_id": 69,
+    "captions": [
+      "a boy in a white shirt is on a skateboard with a skate board.",
+      "a young boy doing a trick on a skateboard",
+      "a boy riding on top of a skateboard at a park",
+      "a young boy that is skateboarding on a ramp.",
+      "the skateboarder is doing a stunt in the skate park."
+    ],
+    "diversity_score": 0.6535,
+    "category": "medium"
+  },
+  {
+    "image_id": 97,
+    "captions": [
+      "a chair with a plant in it next to a bed",
+      "a black and white picture of a chair in a living room.",
+      "a chair in a bedroom with a framed picture in the corner.",
+      "a chair that is sitting in front of a window.",
+      "a chair and a door in a room"
+    ],
+    "diversity_score": 0.6535,
+    "category": "medium"
+  },
+  {
+    "image_id": 53,
+    "captions": [
+      "a man and his dog playing frisbee outside.",
+      "a man in a field with a dog throws a frisbee",
+      "a dog with a ball on his head in the yard.",
+      "man and dog play frisbee in the yard outdoors.",
+      "a man tossing a frisbee for a dog."
+    ],
+    "diversity_score": 0.6517,
+    "category": "medium"
+  },
+  {
+    "image_id": 58,
+    "captions": [
+      "a zebra stands looking straight ahead with a clear sky in the background.",
+      "a zebra ' s head standing out in a field.",
+      "a black and white zebra standing in a field.",
+      "a zebra standing in a field, with it ' s head turned towards the camera",
+      "a zebra is looking at the camera on the ground."
+    ],
+    "diversity_score": 0.6514,
+    "category": "medium"
+  },
+  {
+    "image_id": 144,
+    "captions": [
+      "man with a plate of food sitting in front of his computer.",
+      "a man smiling and holding a plate with chocolate cake on it",
+      "a man sits with a plate of cake on a table.",
+      "man sitting at table with food and a coffee mug.",
+      "a man laying on his head with a plate full of food."
+    ],
+    "diversity_score": 0.6514,
+    "category": "medium"
+  },
+  {
+    "image_id": 162,
+    "captions": [
+      "a train car at a train stop at a train station.",
+      "a train in the train station near a rail road",
+      "a small train sitting next to some railroad tracks.",
+      "a train is pulled to the station waiting for its passengers.",
+      "a train sits at a train station on the train tracks."
+    ],
+    "diversity_score": 0.6465,
+    "category": "medium"
+  },
+  {
+    "image_id": 123,
+    "captions": [
+      "a little girl reaching for some food inside a small refrigerator.",
+      "a little girl in a kitchen crouching by the fridge.",
+      "a little girl stands next to a fridge.",
+      "a little girl standing near the door of a refrigerator.",
+      "a little girl is reaching for food in the fridge"
+    ],
+    "diversity_score": 0.6452,
+    "category": "medium"
+  },
+  {
+    "image_id": 128,
+    "captions": [
+      "three people sitting on park benches talking on cell phones.",
+      "a man and a woman are sitting on a park bench",
+      "a couple of women sitting on a bench in front of a tree.",
+      "people sitting on a park bench and on a street.",
+      "two women sit together on a bench next to a street light."
+    ],
+    "diversity_score": 0.6449,
+    "category": "medium"
+  },
+  {
+    "image_id": 0,
+    "captions": [
+      "a woman preparing food in a small kitchen",
+      "a woman standing in a kitchen with cooking utensils on top of a table.",
+      "a woman is making a homemade pizza in a kitchen.",
+      "a woman is standing in a kitchen preparing food.",
+      "a man is cooking on a wooden counter top."
+    ],
+    "diversity_score": 0.6421,
+    "category": "medium"
+  },
+  {
+    "image_id": 50,
+    "captions": [
+      "an elephant in the wild walking near trees.",
+      "a large elephant standing under a tree and standing in a field.",
+      "a big elephant standing in a lush green field.",
+      "an elephant walking around in the grass between some trees",
+      "an elephant standing in front of a tree in the wild."
+    ],
+    "diversity_score": 0.6421,
+    "category": "medium"
+  },
+  {
+    "image_id": 181,
+    "captions": [
+      "a boy standing with his suitcase and backpack.",
+      "a man standing on a sidewalk with a suitcase near a train.",
+      "a man is waiting for a train at the platform.",
+      "a man waiting for train on a platform in a city",
+      "a man and his companion waiting for a train."
+    ],
+    "diversity_score": 0.6421,
+    "category": "medium"
+  },
+  {
+    "image_id": 145,
+    "captions": [
+      "a jet plane flying in the sky during a blue day.",
+      "a plane is seen in the sky flying high",
+      "the top part of an airplane against a clear blue sky.",
+      "airplane in the sky",
+      "the plane is flying in the clear sky."
+    ],
+    "diversity_score": 0.642,
+    "category": "medium"
+  },
+  {
+    "image_id": 157,
+    "captions": [
+      "the sheep is walking towards the camera in the pasture.",
+      "a sheep in the grass with other animals in the background.",
+      "a sheep in a field with white sheep in the background.",
+      "a sheep in a pasture with many sheep grazing around.",
+      "the sheep are white and have a red spot on their fur."
+    ],
+    "diversity_score": 0.6408,
+    "category": "medium"
+  },
+  {
+    "image_id": 59,
+    "captions": [
+      "a zebra standing in a dry grassy field",
+      "a lone zebra standing in an open area",
+      "a zebra is running in the middle of the wild.",
+      "a zebra running away from the ground while in the wild.",
+      "a zebra is standing in the dirt next to trees."
+    ],
+    "diversity_score": 0.6404,
+    "category": "medium"
+  },
+  {
+    "image_id": 133,
+    "captions": [
+      "a small kitchen area that is well cleaned.",
+      "a kitchen with a sink and window next to a counter",
+      "a kitchen with a counter, a sink and a window.",
+      "a kitchen with an island, white refrigerator and white walls",
+      "a kitchen has a sink and wooden cabinets"
+    ],
+    "diversity_score": 0.6404,
+    "category": "medium"
+  },
+  {
+    "image_id": 25,
+    "captions": [
+      "a sign reading no bicycles is on skiats.",
+      "a sign on a pole warns the no bicycles skiiers or skiiers are under a sign with a black arrow",
+      "a no bicycles skates or skateboards sign hanging from a pole",
+      "a no bicycle skiier or skiboards sign on a pole.",
+      "a no bicycles, skateboarding sign mounted on a pole"
+    ],
+    "diversity_score": 0.6396,
+    "category": "medium"
+  },
+  {
+    "image_id": 24,
+    "captions": [
+      "a city traffic light pole with a sign on it.",
+      "a yellow taxi cab on a city street and a pole and street sign",
+      "a street pole with some stickers on it in front of some buildings.",
+      "a taxi sign sitting next to a yellow taxi cab.",
+      "yellow taxis parked next to a pole with a dog on it."
+    ],
+    "diversity_score": 0.6372,
+    "category": "medium"
+  },
+  {
+    "image_id": 74,
+    "captions": [
+      "a close up of a person with a doughnut in their hand.",
+      "a close up of a man eating a donut.",
+      "a man wearing a gray shirt eating a donut.",
+      "a person holding a donut with their face up in front of the camera.",
+      "a guy with glasses eating a glazed donut"
+    ],
+    "diversity_score": 0.6364,
+    "category": "medium"
+  },
+  {
+    "image_id": 99,
+    "captions": [
+      "a tennis player hitting a ball during a match.",
+      "a female tennis player jumping up to hit the ball with a tennis racket.",
+      "a woman is playing tennis on a clay court.",
+      "a woman in a tennis match reaching for a tennis ball.",
+      "a tennis player returning a ball to a tennis ball with a racket"
+    ],
+    "diversity_score": 0.6355,
+    "category": "medium"
+  },
+  {
+    "image_id": 85,
+    "captions": [
+      "a room with a bunch of bags on a shelf next to a bed.",
+      "a room with a window, chair, table and other things.",
+      "a chair with blankets in a room with a window.",
+      "a room that has a bed and a table",
+      "an old hospital room with a bed and a table."
+    ],
+    "diversity_score": 0.6337,
+    "category": "medium"
+  },
+  {
+    "image_id": 86,
+    "captions": [
+      "the room has a bed, a suitcase and a brick wall.",
+      "a bedroom with some luggage, a laptop, and a bed",
+      "a room with a bed, a suitcase and a computer.",
+      "an unmade bed is on the floor with many bags.",
+      "a room with a chair and a bed with an area rug with pillows on it"
+    ],
+    "diversity_score": 0.633,
+    "category": "medium"
+  },
+  {
+    "image_id": 106,
+    "captions": [
+      "a living room with a couch, chair and table.",
+      "a beige couch is set against a white wall",
+      "a living room filled with furniture and a tv in it.",
+      "a large couch is in a living room in front of a table.",
+      "a couch in a living room with a coffee table in the middle of it."
+    ],
+    "diversity_score": 0.633,
+    "category": "medium"
+  },
+  {
+    "image_id": 180,
+    "captions": [
+      "a man holding a cat looking at his laptop computer",
+      "a person with a beard is sitting with a cat.",
+      "a man sitting with his cat on his lap with a laptop.",
+      "a man sitting in a chair and working on a laptop.",
+      "a cat is laying on a laptop keyboard"
+    ],
+    "diversity_score": 0.6289,
+    "category": "medium"
+  },
+  {
+    "image_id": 60,
+    "captions": [
+      "a person riding a brown horse along a beach.",
+      "a jockey and his horse running along the beach.",
+      "a person on a horse racing along the beach.",
+      "a couple of horses that are running on a beach",
+      "two men and a brown horse running along a sandy beach"
+    ],
+    "diversity_score": 0.6264,
+    "category": "medium"
+  },
+  {
+    "image_id": 193,
+    "captions": [
+      "a girl holding a black and white horse next to a wooden cabin.",
+      "a woman is touching a horse with a tie",
+      "a woman walking beside a horse near a building.",
+      "a person is standing near a horse, with a woman in the background",
+      "a woman is standing next to a horse"
+    ],
+    "diversity_score": 0.6263,
+    "category": "medium"
+  },
+  {
+    "image_id": 102,
+    "captions": [
+      "the young child is laying on a couch and playing with the remote",
+      "a young boy laying on a couch using a remote control.",
+      "the child is wearing a pink blanket on the sofa",
+      "a young boy holds a remote control that he is playing.",
+      "a little boy that is sitting on a couch with a remote"
+    ],
+    "diversity_score": 0.6239,
+    "category": "medium"
+  },
+  {
+    "image_id": 26,
+    "captions": [
+      "a giraffe standing by a wooden wall in front of a door.",
+      "a very cute giraffe near a door",
+      "a brown and white giraffe standing in front of a wooden door",
+      "a giraffe standing by a wooden door with one foot on the floor",
+      "a baby giraffe is standing outside by the door"
+    ],
+    "diversity_score": 0.6238,
+    "category": "medium"
+  },
+  {
+    "image_id": 160,
+    "captions": [
+      "a train window view of a street and a small building.",
+      "a window view of a road and houses through a wet, snowy window.",
+      "a view out a window of a vehicle in the rain.",
+      "a window with a rainy view of an airplane",
+      "a window of a train in a dark room."
+    ],
+    "diversity_score": 0.6238,
+    "category": "medium"
+  },
+  {
+    "image_id": 64,
+    "captions": [
+      "a baseball pitcher throwing a pitch while a crowd watches",
+      "a pitcher throws the ball to a batter during a baseball game.",
+      "a baseball pitcher in action in a baseball game",
+      "pitcher winding up to throw ball in baseball game",
+      "the baseball pitcher throws a pitch to the batter."
+    ],
+    "diversity_score": 0.6237,
+    "category": "medium"
+  },
+  {
+    "image_id": 81,
+    "captions": [
+      "three people in wetsuits are standing on a beach watching a man surf in the ocean.",
+      "a group of people standing on top of a beach near a body of water.",
+      "two people in wetsuits and sun in the background with a body of water and a surfer",
+      "two people walking towards a body of water at the beach.",
+      "people walk in the water at the beach while birds are swimming in the water."
+    ],
+    "diversity_score": 0.6224,
+    "category": "medium"
+  },
+  {
+    "image_id": 159,
+    "captions": [
+      "three giraffes walking across an open green field.",
+      "three giraffes walking across a field together.",
+      "three giraffes in a field together on a sunny day.",
+      "a herd of giraffe walking across a field",
+      "the herd of giraffes are walking across the pasture."
+    ],
+    "diversity_score": 0.6203,
+    "category": "medium"
+  },
+  {
+    "image_id": 42,
+    "captions": [
+      "a white and grey cat sitting on top of a laptop.",
+      "a grey and white cat sitting in front of a laptop computer",
+      "a cat that is sitting on a computer and it has a ball around his neck.",
+      "a cat sitting on top of a computer monitor.",
+      "a cat sitting on the counter looking up at a computer."
+    ],
+    "diversity_score": 0.6195,
+    "category": "medium"
+  },
+  {
+    "image_id": 68,
+    "captions": [
+      "a person riding a skateboard on a street.",
+      "the man is going down the street on his skateboard.",
+      "a man in black and yellow racing gear and a helmet",
+      "a man in a helmet and black leather outfit on a skateboard",
+      "a young man in black and yellow on a skateboard."
+    ],
+    "diversity_score": 0.6186,
+    "category": "medium"
+  },
+  {
+    "image_id": 112,
+    "captions": [
+      "a girl throwing a frisbee in the grass.",
+      "a little girl holding a frisbee on a lush green hillside.",
+      "a little girl playing a game with a frisbee.",
+      "a young girl walking across a lush green field.",
+      "a little girl is in the grass throwing a frisbee."
+    ],
+    "diversity_score": 0.618,
+    "category": "medium"
+  },
+  {
+    "image_id": 84,
+    "captions": [
+      "a woman lighting a candle in a room.",
+      "a woman sitting in a kitchen with a candle on a cake.",
+      "a lady that is holding a birthday cake with a candle in it.",
+      "a woman lighting a birthday cake with lit candles.",
+      "an elderly woman is blowing out the candles to blow out the birthday cake."
+    ],
+    "diversity_score": 0.6168,
+    "category": "medium"
+  },
+  {
+    "image_id": 38,
+    "captions": [
+      "a cat laying inside of a suitcase on a bed.",
+      "an orange and white cat sitting in a bag.",
+      "an orange and white cat sits on top of an open suitcase.",
+      "a cat laying on top of a black bag.",
+      "a cat is sitting inside a suitcase that has stuff in it"
+    ],
+    "diversity_score": 0.6162,
+    "category": "medium"
+  },
+  {
+    "image_id": 172,
+    "captions": [
+      "a girl wearing a white dress sitting in a chair under a white umbrella.",
+      "the girl sits on a bench and holds an umbrella.",
+      "a woman in a pink dress sits on a chair and holds a pink umbrella.",
+      "a lady wearing a floral dress holds an umbrella in front of a red wall.",
+      "a young girl sitting on a chair while holding an umbrella."
+    ],
+    "diversity_score": 0.616,
+    "category": "medium"
+  },
+  {
+    "image_id": 121,
+    "captions": [
+      "man looking at cell phone and talking on cell phone",
+      "a man holding up a cell phone to his ear.",
+      "a man that is looking at a phone",
+      "a man using a cell phone to photograph something in the city.",
+      "a man is talking on his cell phone in front of a building"
+    ],
+    "diversity_score": 0.6139,
+    "category": "medium"
+  },
+  {
+    "image_id": 147,
+    "captions": [
+      "a dog is standing on a table next to a bush.",
+      "a dog standing on a bench outside next to a bush.",
+      "a dog on a backyard bench with oranges in the background.",
+      "dog on a concrete bench outside near bush and fence",
+      "a brown dog standing on top of a wooden bench."
+    ],
+    "diversity_score": 0.6139,
+    "category": "medium"
+  },
+  {
+    "image_id": 171,
+    "captions": [
+      "a woman holding an umbrella by the ocean",
+      "a person standing on a concrete railing with an umbrella in the background",
+      "a person with a hat is holding a colorful umbrella.",
+      "a person sitting on a rail with a colorful umbrella in front of a body of water.",
+      "a person holding a multicolored umbrella on a stair near a body of water."
+    ],
+    "diversity_score": 0.6134,
+    "category": "medium"
+  },
+  {
+    "image_id": 92,
+    "captions": [
+      "a man is surfboarding in the water",
+      "a man laying on a surfboard in a wave on a beach.",
+      "a surfer is riding a wave near the shore.",
+      "a man in a wet suit riding a surfboard on top of a wave.",
+      "a person riding a surf board on a wave in the water."
+    ],
+    "diversity_score": 0.6117,
+    "category": "medium"
+  },
+  {
+    "image_id": 39,
+    "captions": [
+      "a cow in a field with trees and a body of water.",
+      "a lone cow in a field with a large forest behind it.",
+      "a small cow is grazing on a large green field",
+      "a view of a cow grazing on a field in the countryside.",
+      "cows are grazing on the grass in a field"
+    ],
+    "diversity_score": 0.6095,
+    "category": "medium"
+  },
+  {
+    "image_id": 73,
+    "captions": [
+      "a couple of doughnuts sitting on a plate on a table.",
+      "several delicious chocolate doughnuts sitting on a paper plate",
+      "there is a plate that has six glazed doughnuts",
+      "two donuts sitting on a square plate with a hand holding the donut",
+      "four donuts sitting on a plate on a table."
+    ],
+    "diversity_score": 0.6082,
+    "category": "medium"
+  },
+  {
+    "image_id": 127,
+    "captions": [
+      "a group of people sitting at a table in a wine room.",
+      "a group of people seated at a table, drinking wine",
+      "a group of people sitting at a table with wine in each hand.",
+      "people seated around a table in an old style restaurant.",
+      "the people are having a drink while on the wine table."
+    ],
+    "diversity_score": 0.6075,
+    "category": "medium"
+  },
+  {
+    "image_id": 167,
+    "captions": [
+      "a cat is sitting in front of a glass of water.",
+      "a gray tabby cat drinking water out of a tall glass",
+      "a cat is sniffing a glass of water",
+      "a close up shot of a cat drinking water",
+      "a cat drinking from a clear cup of water on a coffee table."
+    ],
+    "diversity_score": 0.6061,
+    "category": "medium"
+  },
+  {
+    "image_id": 94,
+    "captions": [
+      "a woman laying in bed under a glass table.",
+      "a woman is laying on a bed inside a glass box.",
+      "a couple laying in bed together in a room.",
+      "a woman laying on her bed next to a glass table.",
+      "a man is posing in the glass room."
+    ],
+    "diversity_score": 0.6044,
+    "category": "medium"
+  },
+  {
+    "image_id": 17,
+    "captions": [
+      "a wooden bench sitting in front of a grassy shore",
+      "a bench in a grassy area next to the ocean.",
+      "a bench in front of the beach and a beach behind it",
+      "a park bench with a grassy area on the beach",
+      "a park bench sits at the edge of a grassy hill"
+    ],
+    "diversity_score": 0.604,
+    "category": "medium"
+  },
+  {
+    "image_id": 4,
+    "captions": [
+      "a bike attached to the side of a sidewalk.",
+      "the front wheel of a bicycle attached to a tree on a sidewalk.",
+      "a blue bike with an orange brake hanging on a pole in the middle of a city.",
+      "a bike sits in the front of a blue bicycle.",
+      "a bike sits parked in front of the street."
+    ],
+    "diversity_score": 0.6036,
+    "category": "medium"
+  },
+  {
+    "image_id": 113,
+    "captions": [
+      "a clock is on the corner of a brick building.",
+      "a red fire hydrant sits in front of a brick building.",
+      "a street light at night over a corner with a red fire hydrant.",
+      "a brick building that has a clock displayed on the outside of it.",
+      "a clock is on the side of a red brick building."
+    ],
+    "diversity_score": 0.6036,
+    "category": "medium"
+  },
+  {
+    "image_id": 178,
+    "captions": [
+      "a man wearing a tie against a gray wall.",
+      "a close up of a person wearing a necktie and glasses",
+      "a man in a neck tie with glasses standing against a grey background.",
+      "a man in glasses and a purple shirt and tie with dark gray background.",
+      "a man is wearing a purple shirt and a black tie."
+    ],
+    "diversity_score": 0.6036,
+    "category": "medium"
+  },
+  {
+    "image_id": 110,
+    "captions": [
+      "a man riding a snow board on top of a snow covered ground.",
+      "a person in snow suit holding onto a parachute",
+      "a man riding a snow board on a snow covered field.",
+      "man in green jacket with large kite and snow on ground",
+      "a man on a snow covered ground flying a kite."
+    ],
+    "diversity_score": 0.6019,
+    "category": "medium"
+  },
+  {
+    "image_id": 96,
+    "captions": [
+      "a girl is eating a pizza in an office space.",
+      "a child is eating a piece of pizza.",
+      "a little girl eating a piece of food on a stick.",
+      "a young girl is eating pizza with a fork in her mouth.",
+      "a child is eating a pizza and eating it."
+    ],
+    "diversity_score": 0.6,
+    "category": "medium"
+  },
+  {
+    "image_id": 153,
+    "captions": [
+      "a giraffe standing in a grassy plain next to some trees.",
+      "a giraffe is standing in the tall grass of a field.",
+      "a giraffe standing in a field eating a leaf off a tree.",
+      "a giraffe that is standing in a field",
+      "a giraffe eating a leaf on a tree branch in an open field"
+    ],
+    "diversity_score": 0.6,
+    "category": "medium"
+  },
+  {
+    "image_id": 33,
+    "captions": [
+      "a stop sign hanging from the side of a wall.",
+      "an image of a stop sign on the wall",
+      "a stop sign hanging from a string in a hallway",
+      "a stop sign is shown underneath a door.",
+      "a red stop sign on a wall by the door."
+    ],
+    "diversity_score": 0.5955,
+    "category": "medium"
+  },
+  {
+    "image_id": 41,
+    "captions": [
+      "a white cat stands on top of a television with the image of a man on it",
+      "a cat on a table and watching tv.",
+      "a cat is standing on top of a television with a picture of a man on it.",
+      "a cat standing on a table in front of a tv",
+      "a cat sitting on a wooden shelf while looking into a television."
+    ],
+    "diversity_score": 0.592,
+    "category": "medium"
+  },
+  {
+    "image_id": 154,
+    "captions": [
+      "a man sitting on a bench holding his feet up.",
+      "a woman sitting on a bench in the garden.",
+      "a man sitting on top of a bench while reading.",
+      "a man sitting in a park bench with a bag",
+      "a black and white photo of a man on a bench"
+    ],
+    "diversity_score": 0.5895,
+    "category": "medium"
+  },
+  {
+    "image_id": 80,
+    "captions": [
+      "a person is standing on a tennis court",
+      "black and white photo of man hitting a tennis ball",
+      "a young man hitting a tennis ball with a racquet.",
+      "a man in shorts swinging a tennis racquet.",
+      "a man on a tennis court hitting a ball"
+    ],
+    "diversity_score": 0.5882,
+    "category": "medium"
+  },
+  {
+    "image_id": 108,
+    "captions": [
+      "a group of children are playing soccer together.",
+      "a small child in a red shirt kicking a soccer ball.",
+      "a group of people that are playing with a soccer ball.",
+      "a bunch of kids that are playing soccer",
+      "a group of people watching a soccer ball"
+    ],
+    "diversity_score": 0.5862,
+    "category": "medium"
+  },
+  {
+    "image_id": 118,
+    "captions": [
+      "a person holding their hand while using a laptop on a wooden table.",
+      "a person is typing on a computer mouse",
+      "a person is typing on a computer mouse",
+      "a black person is using a mouse for a computer.",
+      "an person using a computer mouse to cut into a piece of paper."
+    ],
+    "diversity_score": 0.5859,
+    "category": "medium"
+  },
+  {
+    "image_id": 183,
+    "captions": [
+      "a person walking on a side street near a river.",
+      "a woman with an umbrella walking along the river",
+      "a person is standing next to a canal with an umbrella.",
+      "a person walking down a walkway next to a river with an umbrella.",
+      "a person walking down a street holding an umbrella"
+    ],
+    "diversity_score": 0.5859,
+    "category": "medium"
+  },
+  {
+    "image_id": 87,
+    "captions": [
+      "a young child eats cake with his fingers.",
+      "a young boy with blond hair eating a cake",
+      "a young child is eating a piece of cake",
+      "a young child is eating a piece of cake.",
+      "a toddler with a bite of cake sitting in front of him."
+    ],
+    "diversity_score": 0.5843,
+    "category": "medium"
+  },
+  {
+    "image_id": 37,
+    "captions": [
+      "a cat is laying next to a pair of tennis shoes.",
+      "a cat sitting next to a pair of white shoes.",
+      "a cat sitting on the ground next to a pair of shoes",
+      "a brown cat with eyes partially closed lying on the ground.",
+      "a cat laying on the floor with a white shoe."
+    ],
+    "diversity_score": 0.5825,
+    "category": "medium"
+  },
+  {
+    "image_id": 129,
+    "captions": [
+      "a woman is taking her pancake from the stove.",
+      "a person in a kitchen stirs food on the stove.",
+      "a woman prepares to fry food in the pan",
+      "a woman is cooking food in a pan in the kitchen.",
+      "a woman is cooking some food on a pan"
+    ],
+    "diversity_score": 0.5824,
+    "category": "medium"
+  },
+  {
+    "image_id": 89,
+    "captions": [
+      "a bed with a white cover and a brown headboard.",
+      "a bed with a white comforter and canopy above it.",
+      "a bed with a canopy attached over it",
+      "a white bed has a sheer, drape canopy on top of it.",
+      "a bed with a canopy attached in a bedroom."
+    ],
+    "diversity_score": 0.5806,
+    "category": "medium"
+  },
+  {
+    "image_id": 111,
+    "captions": [
+      "a small child standing in a field holding a kite.",
+      "a little girl that is playing with a kite.",
+      "a young girl running through the grass with a kite.",
+      "a little girl running on the grass holding a kite.",
+      "a young child with a kite running through a field."
+    ],
+    "diversity_score": 0.5806,
+    "category": "medium"
+  },
+  {
+    "image_id": 165,
+    "captions": [
+      "a green truck sitting next to another truck parked.",
+      "an old green pickup truck sitting on top of grass.",
+      "the back of a green truck is parked in the grass.",
+      "a pick up truck that is sitting in the grass.",
+      "an old green truck is parked in the grass."
+    ],
+    "diversity_score": 0.5806,
+    "category": "medium"
+  },
+  {
+    "image_id": 34,
+    "captions": [
+      "a stop sign with a white sticker underneath it on a street corner",
+      "a stop sign is placed next to a street corner.",
+      "a stop sign sitting on a street corner next to a telephone pole",
+      "a stop sign that is leaning up next to a street.",
+      "a stop sign attached to a wooden pole in the neighborhood."
+    ],
+    "diversity_score": 0.5766,
+    "category": "medium"
+  },
+  {
+    "image_id": 31,
+    "captions": [
+      "the train is going down the tracks along the tracks.",
+      "a train stopped at a train station next to a brick sidewalk.",
+      "a train pulling into a train station next to a tree.",
+      "a train on a track that is going down the tracks.",
+      "a train that is sitting on some tracks"
+    ],
+    "diversity_score": 0.5758,
+    "category": "medium"
+  },
+  {
+    "image_id": 189,
+    "captions": [
+      "a woman and a young girl playing a game of frisbee.",
+      "a man is running with a frisbee on the ground",
+      "a woman and child in an open field with a frisbee.",
+      "a man and a boy on a field with a frisbee",
+      "a woman and child on a field playing frisbee."
+    ],
+    "diversity_score": 0.5758,
+    "category": "medium"
+  },
+  {
+    "image_id": 179,
+    "captions": [
+      "a cat laying on the counter under the sink",
+      "a cat that is laying in a sink.",
+      "a cat laying in a sink next to a bathroom faucet.",
+      "cat is laying in sink next to faucet sink.",
+      "a cat sleeps in the sink of a bathroom."
+    ],
+    "diversity_score": 0.5747,
+    "category": "medium"
+  },
+  {
+    "image_id": 186,
+    "captions": [
+      "a teddy bear sitting in a sheet of blankets.",
+      "a stuffed animal is sitting in a blanket",
+      "the brown teddy bear is sitting in the bed",
+      "a teddy bear sitting in a bed covered in a pillow.",
+      "a teddy bear peeks out from inside a blanket."
+    ],
+    "diversity_score": 0.5747,
+    "category": "medium"
+  },
+  {
+    "image_id": 177,
+    "captions": [
+      "a man sitting on a chair at the beach under an umbrella.",
+      "a chair sits underneath an umbrella on the beach.",
+      "an umbrella on a beach chair on a sandy beach.",
+      "a beach chair on a beach next to the ocean.",
+      "the blue umbrella is on a beach chair with a blue beach chair."
+    ],
+    "diversity_score": 0.5728,
+    "category": "medium"
+  },
+  {
+    "image_id": 170,
+    "captions": [
+      "a smiling woman in a suit and tie sits in a chair",
+      "a man is wearing a necktie and sitting with a doll",
+      "a woman wearing a suit and tie sitting on a man ' s lap.",
+      "a smiling man in a suit and tie poses for a photograph.",
+      "a boy sitting in a chair in a room with a tie."
+    ],
+    "diversity_score": 0.5726,
+    "category": "medium"
+  },
+  {
+    "image_id": 28,
+    "captions": [
+      "a person sitting on a ledge in front of a clock tower.",
+      "a person sitting outside, facing a fence and a bird.",
+      "a person sitting on a ledge looking at a bird.",
+      "a woman in an overcoat is sitting on the sidewalk with a bird on a brick and a large tower in the background",
+      "a person sitting on a ledge with a pigeon in front of it."
+    ],
+    "diversity_score": 0.5725,
+    "category": "medium"
+  },
+  {
+    "image_id": 175,
+    "captions": [
+      "a man wearing a tie holding up his right hand.",
+      "a man is giving a presentation to a crowd.",
+      "a man in a suit speaking on a video screen.",
+      "a man in a suit is giving a presentation",
+      "a man giving a presentation in front of a crowd."
+    ],
+    "diversity_score": 0.5714,
+    "category": "medium"
+  },
+  {
+    "image_id": 52,
+    "captions": [
+      "a close up of a suitcase with stickers on it",
+      "a small suitcase with stickers that is sitting on a wooden table",
+      "a black suitcase with stickers on the top of it",
+      "an open suitcase with stickers sitting on a table with people in the background.",
+      "the back of a black suitcase with stickers on it."
+    ],
+    "diversity_score": 0.5701,
+    "category": "medium"
+  },
+  {
+    "image_id": 40,
+    "captions": [
+      "a cow standing in the middle of a green field",
+      "a cow standing on top of a lush green field.",
+      "a cow that is standing in some grass.",
+      "a white cow stands in a lush green field.",
+      "a cow is standing in a field with a building in the background."
+    ],
+    "diversity_score": 0.5684,
+    "category": "medium"
+  },
+  {
+    "image_id": 135,
+    "captions": [
+      "a small kitchen with a stainless steel sink and a stove.",
+      "a kitchen with a large stainless steel dishwasher.",
+      "a kitchen with white cabinets, a stove and a refrigerator.",
+      "a kitchen is shown with a stainless steel stove and microwave",
+      "a kitchen with a refrigerator, dishwasher, stove, sink, and cabinets"
+    ],
+    "diversity_score": 0.5684,
+    "category": "medium"
+  },
+  {
+    "image_id": 56,
+    "captions": [
+      "a zebra stands alone in the grass in front of trees",
+      "a zebra stands on a grassy plain in the distance.",
+      "the lone zebra is standing in the tall green grass.",
+      "a zebra is standing in the tall grass",
+      "a zebra standing in tall green grass, with trees in the background."
+    ],
+    "diversity_score": 0.567,
+    "category": "medium"
+  },
+  {
+    "image_id": 105,
+    "captions": [
+      "a living room with an orange wall, couch and table.",
+      "a living room filled with furniture and decor.",
+      "a living room area with a couch and coffee table",
+      "a living room with red walls and a blue couch with blue uphols.",
+      "a room with a chair, table, couch and coffee table"
+    ],
+    "diversity_score": 0.567,
+    "category": "medium"
+  },
+  {
+    "image_id": 143,
+    "captions": [
+      "a laptop computer sitting on top of a desk.",
+      "a laptop and a cellphone and a cellphone on a wooden table.",
+      "a wooden desk topped with a laptop and laptop computer.",
+      "a desktop computer and a laptop sitting on top of a wooden desk.",
+      "a laptop is on the table beside a phone"
+    ],
+    "diversity_score": 0.5545,
+    "category": "medium"
+  },
+  {
+    "image_id": 187,
+    "captions": [
+      "a teddy bear sitting on a shelf with some books.",
+      "a teddy bear sits next to some books.",
+      "the teddy bear is sitting in front of the books.",
+      "a stuffed animal sits in front of books.",
+      "the teddy bear is sitting in front of a bookshelf"
+    ],
+    "diversity_score": 0.5517,
+    "category": "medium"
+  },
+  {
+    "image_id": 70,
+    "captions": [
+      "black and white image of a skate boarder riding a rail",
+      "a person riding a skateboard down a concrete sidewalk",
+      "a black and white image of a person on a skateboard",
+      "a person on a skateboard is doing a trick",
+      "a young person jumping on a skateboard"
+    ],
+    "diversity_score": 0.5506,
+    "category": "medium"
+  },
+  {
+    "image_id": 35,
+    "captions": [
+      "a stop sign with a dark sky in the background",
+      "a stop sign is lit up in the dark.",
+      "a stop sign lit up at night with mountains in the background.",
+      "a stop sign with an illuminated street sign in the background.",
+      "a stop sign next to a sign with a street light"
+    ],
+    "diversity_score": 0.5446,
+    "category": "medium"
+  },
+  {
+    "image_id": 190,
+    "captions": [
+      "a dog laying on a bed while looking at a laptop computer.",
+      "a dog laying on top of a laptop in bed.",
+      "a dog is sitting on a bed while using a laptop.",
+      "a dog laying beside a laptop computer on a bed.",
+      "a black and white dog laying on top of a lap top"
+    ],
+    "diversity_score": 0.5429,
+    "category": "medium"
+  },
+  {
+    "image_id": 98,
+    "captions": [
+      "a slice of pizza on a napkin with a bottle of iced drink in the background.",
+      "a slice of pizza on a white napkin next to a soda.",
+      "a slice of pizza and drink sitting on a wooden table.",
+      "a slice of pizza with a drink on the side.",
+      "a slice of pizza is laying on a white napkin."
+    ],
+    "diversity_score": 0.5398,
+    "category": "medium"
+  },
+  {
+    "image_id": 130,
+    "captions": [
+      "a woman and a baby washing and cooking a dog",
+      "the woman is feeding her dog a meal.",
+      "a woman is washing a dog in the kitchen",
+      "a woman and baby washing a dog in a kitchen.",
+      "a toddler standing next to a dog in a kitchen."
+    ],
+    "diversity_score": 0.5393,
+    "category": "medium"
+  },
+  {
+    "image_id": 197,
+    "captions": [
+      "a baseball player is throwing the ball during a baseball game.",
+      "a pitcher is trying to throw the ball during a baseball game.",
+      "a baseball player swinging a bat at a baseball game.",
+      "a pitcher throwing a pitch at a baseball game.",
+      "the young man is holding a baseball bat and throwing the ball."
+    ],
+    "diversity_score": 0.534,
+    "category": "medium"
+  },
+  {
+    "image_id": 148,
+    "captions": [
+      "a black and white photo of a woman with a umbrella",
+      "a couple sharing an umbrella in front of a bus",
+      "a man holding an umbrella standing next to a bus.",
+      "a woman is holding an umbrella next to a bus.",
+      "a man holding an umbrella standing next to a bus."
+    ],
+    "diversity_score": 0.5258,
+    "category": "medium"
+  },
+  {
+    "image_id": 142,
+    "captions": [
+      "a cake with icing sitting on a plate next to a fork.",
+      "there is a piece of cake on the plate",
+      "a close up of a piece of chocolate cake on a plate.",
+      "a slice of chocolate cake sitting on a white plate.",
+      "a piece of chocolate cake with icing on a plate"
+    ],
+    "diversity_score": 0.5248,
+    "category": "medium"
+  },
+  {
+    "image_id": 194,
+    "captions": [
+      "a close up of a plate of food with apples and banana",
+      "a close up of a plate of food with banana slices.",
+      "a close up of a plate of food with fruit.",
+      "a plate of fruit and other foods that are on a table.",
+      "a white plate topped with a lot of food."
+    ],
+    "diversity_score": 0.5243,
+    "category": "medium"
+  },
+  {
+    "image_id": 5,
+    "captions": [
+      "a bathroom stall with a white toilet next to a bath tub and a white toilet seat.",
+      "a bathroom with a toilet, sink and a shower",
+      "a white bathroom has a toilet and shower in it.",
+      "the bathroom has a white toilet and a shower stall.",
+      "a toilet sitting next to a white sink in a bathroom."
+    ],
+    "diversity_score": 0.5229,
+    "category": "medium"
+  },
+  {
+    "image_id": 11,
+    "captions": [
+      "a lady sitting in front of a computer computer.",
+      "a woman is sitting at a table with a computer.",
+      "a woman at a computer sitting on a desk with books on top.",
+      "a woman is sitting at a desk by a computer.",
+      "a woman sitting at a desk with her computer"
+    ],
+    "diversity_score": 0.5155,
+    "category": "medium"
+  },
+  {
+    "image_id": 151,
+    "captions": [
+      "a young man sitting on a bench outside using a laptop",
+      "a young person sitting on a bench with a laptop.",
+      "a man on a bench with a book in his hands",
+      "a man sits on a wooden bench outside and reads a book.",
+      "a young man sitting on a bench using his laptop."
+    ],
+    "diversity_score": 0.5146,
+    "category": "medium"
+  },
+  {
+    "image_id": 36,
+    "captions": [
+      "a cat is sleeping on the couch next to a dog.",
+      "a cat is laying next to a dog on a couch",
+      "a cat and a dog laying on a sofa",
+      "a dog laying on a blanket and a cat lying on it.",
+      "a yellow tabby cat lays next to a cat on a pillow."
+    ],
+    "diversity_score": 0.5143,
+    "category": "medium"
+  },
+  {
+    "image_id": 71,
+    "captions": [
+      "a man that is riding a skateboard in the air",
+      "a man is riding a skate board on a ramp",
+      "a person with a skate board in the air",
+      "a man in a blue shirt and jeans is doing a skateboard trick.",
+      "a man on a skate board in the air in a skate park"
+    ],
+    "diversity_score": 0.5143,
+    "category": "medium"
+  },
+  {
+    "image_id": 29,
+    "captions": [
+      "a close up of a street sign on a pole.",
+      "a close up of a street sign on a pole",
+      "a street sign points in the direction of the right and left direction of the left.",
+      "a street sign is hanging on a telephone pole.",
+      "a street sign on a telephone pole on a clear day."
+    ],
+    "diversity_score": 0.486,
+    "category": "medium"
+  },
+  {
+    "image_id": 166,
+    "captions": [
+      "a black and white cat in a small blue hat.",
+      "a black and white cat laying on a table",
+      "a black and white cat sitting on a chair",
+      "a black and white cat is sitting on a black cushion.",
+      "a cat on a table is holding a blue teddy bear hat."
+    ],
+    "diversity_score": 0.4845,
+    "category": "medium"
+  },
+  {
+    "image_id": 152,
+    "captions": [
+      "woman sitting on a bench next to a fountain",
+      "a woman sitting on a bench looking at her cell phone.",
+      "a woman sitting on a park bench looking at her phone",
+      "woman sitting on bench with phone by fountain.",
+      "a woman sitting on a stone bench with a cell phone"
+    ],
+    "diversity_score": 0.4842,
+    "category": "medium"
+  },
+  {
+    "image_id": 72,
+    "captions": [
+      "a young man holding a skateboard while standing up",
+      "a man with a skateboard holds a microphone.",
+      "a person holding a skateboard and a microphone.",
+      "a man holding a skateboard next to a microphone",
+      "a young man with a microphone and a skateboard"
+    ],
+    "diversity_score": 0.4815,
+    "category": "medium"
+  },
+  {
+    "image_id": 174,
+    "captions": [
+      "a person with a dog in a street with a red umbrella",
+      "a dog standing in the snow with a umbrella in its mouth.",
+      "a dog with a red umbrella is standing in the snow.",
+      "a person standing in the snow with an umbrella",
+      "a dog looking at a woman walking with a red umbrella in the snow."
+    ],
+    "diversity_score": 0.4685,
+    "category": "medium"
+  },
+  {
+    "image_id": 101,
+    "captions": [
+      "a young girl brushing her teeth with an electric tooth brush.",
+      "a young girl brushing her teeth with a blue toothbrush.",
+      "a child that is brushing her teeth with a tooth brush",
+      "a young girl brushing her teeth with an electric toothbrush",
+      "a little girl brushing her teeth with a toothbrush."
+    ],
+    "diversity_score": 0.433,
+    "category": "medium"
+  },
+  {
+    "image_id": 14,
+    "captions": [
+      "still life still life still life still life still life still life still life still life still life still life still",
+      "a painting of fruit, an old oil bottle, and a candle.",
+      "a still life still life still life still life still life still life still life still life still life still",
+      "still life oil painting of a still life and an orange in a bowl.",
+      "a small oil painting of a red fruit on a table."
+    ],
+    "diversity_score": 0.3289,
+    "category": "repetitive"
+  }
+]

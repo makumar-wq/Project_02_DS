@@ -1,0 +1,44 @@
+[
+  {
+    "lambda": -1.0,
+    "mean_length": 10.8,
+    "mean_unique_words": 8.2,
+    "style_score": 0.6833
+  },
+  {
+    "lambda": -0.5,
+    "mean_length": 10.85,
+    "mean_unique_words": 8.35,
+    "style_score": 0.68
+  },
+  {
+    "lambda": 0.0,
+    "mean_length": 9.65,
+    "mean_unique_words": 8.35,
+    "style_score": 0.6433
+  },
+  {
+    "lambda": 0.5,
+    "mean_length": 9.85,
+    "mean_unique_words": 8.4,
+    "style_score": 0.6567
+  },
+  {
+    "lambda": 1.0,
+    "mean_length": 9.2,
+    "mean_unique_words": 8.0,
+    "style_score": 0.6133
+  },
+  {
+    "lambda": 1.5,
+    "mean_length": 9.85,
+    "mean_unique_words": 8.3,
+    "style_score": 0.6567
+  },
+  {
+    "lambda": 2.0,
+    "mean_length": 9.3,
+    "mean_unique_words": 7.95,
+    "style_score": 0.62
+  }
+]

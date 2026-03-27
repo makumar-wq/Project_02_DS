@@ -22,3 +22,27 @@ outputs/
 *.pth
 
 # NOTE: Do NOT ignore shakespeare_transformer.pt, it is required for the Custom VLM
+
+DEPLOYMENT_GUIDE.md
+deployment_README.md
+detailed_technical_report_cross_attention_vlm_image_captioning.md
+simplified_overview_vlm_image_captioning_project.md
+
+# Local caches, logs, and notebook artifacts
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+*.log
+*.tmp
+*.swp
+
+# Local/temporary test helpers
+test_load.py
+
+# Large local reports (not required to run code)
+Task_01_Report.pdf
+Task_02_Report.pdf
+Task_03_Report.pdf
+Task_04_Report.pdf
+Task_05_Report.pdf
+Technical_Report_Project3_Manoj_Kumar.pdf
